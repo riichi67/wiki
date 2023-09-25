@@ -10,7 +10,10 @@ description: This doc is about theming in Vendetta discord mod client
 
 > Discord always adds something new to their app, so you can always check colors list here: [https://github.com/nexpid/VendettaThemeUtil](https://github.com/nexpid/VendettaThemeUtil)
 
-#### Vendetta Discord Invite link: [https://discord.gg/vendetta-mod](https://discord.gg/vendetta-mod)
+> This wiki also automatically syncs with its own Github repo, so if you have any changes - feel free to PR or open issues about those here: [https://github.com/riichi67/wiki](https://github.com/riichi67/wiki)
+
+Discord server: [https://discord.gg/vendetta-mod](https://discord.gg/vendetta-mod)\
+Github organization: [https://github.com/vendetta-mod](https://github.com/riichi67/wiki)
 
 ### thanks to:
 
