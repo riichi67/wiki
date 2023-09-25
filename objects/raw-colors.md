@@ -6,8 +6,7 @@ description: >-
 
 # 🎨 Raw Colors
 
-* **PRIMARY\_100**: A light color that can be used for backgrounds or other accent elements (plugins dialogue box text).
-Also themes nitro gift backround.
+* **PRIMARY\_100**: A light color that can be used for backgrounds or other accent elements (plugins dialogue box text). Also themes nitro gift backround.
 
 {% embed url="https://cdn.discordapp.com/attachments/811229696955777046/1155937609630101514/iSxol.jpg" %}
 * **PRIMARY\_200**: A dark color that can be used for text or other accent elements.
