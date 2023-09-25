@@ -1,7 +1,3 @@
----
-description: This doc is about theming in Vendetta discord mod client
----
-
 # ▶ Getting started
 
 💡 Welcome to the documentation for Vendetta's themes! Here, you'll find information on how to use our raw colors and semantic colors to create beautiful and consistent designs across your application. Whether you're looking for a dark or light theme, we've got you covered. Cheers to a stylish and cohesive design!
