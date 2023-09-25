@@ -9,6 +9,7 @@ description: Extra known keys are mentioned below (rawColors)
 * BRAND\_500: Themes the bot tag background, some buttons in settings pages, follow button in announcement channel and new post button in the forum channel
 * BRAND\_560: Themes the reaction border, text in pronounDB tag
 * WHITE\_500: Themes the arrow key in send button when texting
+* BLACK\_500: Adds transparency to context menus
 * GREEN\_360: Themes the invite button in invite embeds, progress bar when uploading images, add friend button in user profiles
 * RED\_400: Themes the ping colors (servers and dm text box)
 * YELLOW\_300: Themes the yellow line in background mention, u can also use this key alone instead of BACKGROUND\_MENTION to add transparency to it, which looks more cleaner.
