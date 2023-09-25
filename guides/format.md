@@ -19,17 +19,17 @@ interface Theme {
   semanticColors: {
     /** Semantic key */
     [semanticKey: string]: [
-      /** Dark HEXA color */
+      /** Dark color */
       string,
-      /** Light HEXA color */
+      /** Light color */
       string,
-      /** Amoled HEXA color */
+      /** Amoled color */
       string
     ];
   };
   /** Object containing the raw color recolorations */
   rawColors: {
-    [key: string]: string;
+    [rawKey: string]: string;
   };
   /** Background that shows up in chat */
   background: {
