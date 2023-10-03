@@ -139,6 +139,8 @@ description: >-
 
 {% embed url="https://cdn.discordapp.com/attachments/1086985889286209586/1093231876694609950/Screenshot_2023-04-05-23-22-58-137-edit_com.aliucordrn.jpg" %}
 
+* **BG\_BACKDROP**:
+Colour of context menus 
 
 * **BG\_BASE\_SECONDARY**:
 Settings pages for light mode
