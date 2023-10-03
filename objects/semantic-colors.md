@@ -133,12 +133,7 @@ description: >-
 
 {% embed url="https://cdn.discordapp.com/attachments/1086985889286209586/1093231138476146778/Screenshot_2023-04-05-23-20-00-861-edit_com.aliucordrn.jpg" %}
 
-* **REDESIGN_BUTTON_SECONDARY_BACKGROUND**:
-"Edit status" button *(tabsv2)*
-"Edit profile" button *(tabsv2)*
-
-{% url="https://cdn.discordapp.com/attachments/811229696955777046/1158791329271271444/00PLf.jpg?ex=651d8806&is=651c3686&hm=6ba684117e79d6a6600d18bbc4579fb7434d21e96a308c27927739d9d66bc9fb&" %}
-
+***
 
 * **BACKGROUND\_MODIFIER\_ACCENT**: Separators \[Server List Top, Bottom Bar, Server Info, User List, User Info, @, Notifications, Friends, Search, Settings]
 
@@ -147,10 +142,11 @@ description: >-
 * **BG\_BACKDROP**:
 Colour of context menus 
 
+***
+
 * **BG\_BASE\_SECONDARY**:
 Settings pages for light mode
 
-* **
 ***
 
 * **SCROLLBAR\_THIN\_THUMB**: Elements of scroll bars
@@ -187,4 +183,12 @@ Settings pages for light mode
 
 ***
 
+* **REDESIGN_BUTTON_SECONDARY_BACKGROUND**:
+"Edit status" button *(tabsv2)*
+"Edit profile" button *(tabsv2)*
+
+{% embed url="https://cdn.discordapp.com/attachments/811229696955777046/1158791329271271444/00PLf.jpg?ex=651d8806&is=651c3686&hm=6ba684117e79d6a6600d18bbc4579fb7434d21e96a308c27927739d9d66bc9fb&" %}
+
+
+***
 * **SPOILER\_HIDDEN\_BACKGROUND**: Themes the hidden spoiler background
