@@ -6,20 +6,138 @@ description: >-
 
 # 🎨 Raw Colors
 
-* **PRIMARY\_100**: A light color that can be used for backgrounds or other accent elements (plugins dialogue box text). Also themes nitro gift backround.
+* **BLACK\_500**:
+Transparency in context menus
+Backrounds for search, attachments, gift buttons *(light mode)*
+
+***
+
+* **BRAND\_260**:
+Themes "OP" background in forum posts
+Pronoun tag background (pronounDB)
+
+* **BRAND\_500**:
+For the switch trance
+
+* **BRAND\_560**:
+"OP" button text colour in forum posts
+
+***
+
+* **PRIMARY\_100**:
+Settings > nitro gifting > nitro gift backround *(light mode)*
+Colour of the `cancel` button in app authorisation page
 
 {% embed url="https://cdn.discordapp.com/attachments/811229696955777046/1155937609630101514/iSxol.jpg" %}
 
-* **PRIMARY\_130**: Themes navigation bars *(TabsV2)*
-* **PRIMARY\_200**: A dark color that can be used for text or other accent elements.
-* **PRIMARY\_230**: Themes the Attachment icon, gift icon and voice note icon in dark mode. Themes md3 toast messages (nexxutils)
-* **PRIMARY\_300**: A color that can be used for highlighting or other accent elements, (some bar colors in swipe up tabV2)
-* **PRIMARY\_360**: Themes the member’s name in a vc
-* **PRIMARY\_400**: Add colors to some buttons in settings
-* **PRIMARY\_460**: Themes read channel names *(TabsV2)*
+* **PRIMARY\_130**: Themes navigation bars *(light mode)*
+
+* **PRIMARY_160**: Does nothing on dark mode
+Some hover effects
+Splash screen colour *(light mode)*
+
+* **PRIMARY\_200**: Does nothing on dark mode
+Role chips - server settings > members *(light mode)*
+
+* **PRIMARY\_230**:
+Attachment icon, gift icon, voice note icon *(dark mode)*
+MD3 Toast popups *(nexxutils)*
+
+* **PRIMARY\_300**:
+Themes gear icon in notification popups *(dark mode)*
+
+* **PRIMARY\_360**:
+Read channel names *(dark mode)*
+
+* **PRIMARY\_400**:
+Channel icons
+Turned on switch
+
+* **PRIMARY\_460**:
+Colour of "Add status" button *(dark mode)*
+Colour of "Edit profile" button *(dark mode)*
+Read channel names *(light mode)*
+
 * **PRIMARY\_500**: A very dark color that can be used for borders in dialogue boxes or other accent elements (themes the “joined” text on server invite embeds)
-* **PRIMARY\_600**: A very dark color that can be used for backgrounds or other accent elements (joined button background of invite embeds, startup window and chat box outer background)
+
+* **PRIMARY\_560**:
+Activity cards
+
+* **PRIMARY\_600**:
+Splash screen (dark mode)
+Inner background of MD3 switch toggles *(nexxutils)*
+
 * **PRIMARY\_630**: Themes the background of invites (invite)
+
+* **PRIMARY_645**:
+Some hover colours *(dark mode)*
+
 * **PRIMARY\_660**: Themes the server bottom bar in emoji selection page
-* **PRIMARY\_700**: Themes the notification pop ups in discord
-* **PRIMARY\_800**: Themes the bottom guild lists in tabV2 and interactive buttons (bottom bar) in normal layout.
+
+* **PRIMARY\_700**:
+Chatbox colour *(dark mode)*
+Toast popups *(dark mode)*
+Search bar *(dark mode)*
+
+* **PRIMARY\_800**:
+Audit log filter chips *(light mode)*
+Navigation bars *(dark mode)*
+
+***
+
+* **PLUM\_1**:
+Color for unread channels
+
+* **PLUM\_3**:
+Attach file/nitro button
+Add status/text icon
+Edit profile/icon and text in chat *(dark mode)*
+
+* **PLUM\_6**:
+Text preview for replied messages
+React count for emotes under messages
+Add reaction button under messages
+
+* **PLUM\_9**:
+Channel list catagories
+
+* **PLUM\_10**:
+Minor text color
+Read channel color
+Channel mentions
+
+* **PLUM\_11**:
+Chat box bg and accent bar under browse channels
+
+* **PLUM\_13**
+Pressed button background
+
+* **PLUM\_17**:
+Background for scroll to bottom of chat/new messages button
+Selected emoji/gift/sticker button *(dark mode)*
+* **PLUM\_18**:
+Inner background for profiles (has forced transparency)
+
+* **PLUM\_19**:
+Background for activity cards
+
+* **PLUM\_20**
+Background for channel list
+User preview when someone is typing
+
+* **PLUM\_22**:
+Swipe to reply background
+
+***
+
+* **WHITE\_500**
+Bot tag text Emoji context menu text
+Turned on inner backround for switches
+`Enable` button in push notification disabled message
+Text in notification bubbles
+`Get nitro` text in emoji context menus & edit profile page
+`Invite` text on invite button in channels list
+Text colour for nitro gift embeds in nitro gift menu
+
+* **WHITE\_630**:
+MD3 turned off button outline *(nexxutils)*

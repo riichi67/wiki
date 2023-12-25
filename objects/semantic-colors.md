@@ -61,7 +61,12 @@ description: >-
 
 ***
 
-* **BACKGROUND\_SECONDARY** : The secondary background color for the UI, background of create new server icons and stuffs, settings embed of plugins and themes, some elements in forum pages
+* **BACKGROUND\_SECONDARY** :
+Outer background for profiles
+Outer background for forum posts
+Background for single line code block thingys
+Outer backround for context menus (can be overwritten by BG_BASE_SECONDARY)
+Audit log info backround
 
 {% embed url="https://cdn.discordapp.com/attachments/1086985889286209586/1093206528598736896/IMG_20230405_214143.jpg" %}
 
@@ -91,20 +96,14 @@ description: >-
 
 ***
 
-* **BACKGROUND\_FLOATING**: Profile Top background, Server Boost Page Icons
-
-{% embed url="https://cdn.discordapp.com/attachments/1086985889286209586/1093218400098066433/Screenshot_2023-04-05-22-29-24-503-edit_com.aliucordrn.jpg" %}
-
-***
-
-* **BACKGROUND\_NESTED\_FLOATING**: Settings buttons/boxes background (ios)
-* **BACKGROUND\_MOBILE\_PRIMARY**: Account/Settings background
+* **BACKGROUND\_MOBILE\_PRIMARY**: Audit log outer background
+CloudSync outer background *(CloudSync)*
 
 {% embed url="https://cdn.discordapp.com/attachments/1086985889286209586/1093224604782297159/Screenshot_2023-04-05-22-53-31-460-edit_com.aliucordrn.jpg" %}
 
 ***
 
-* **BACKGROUND\_MOBILE\_SECONDARY**: Channel List/DM Background, Global Header Color
+* **BACKGROUND\_MOBILE\_SECONDARY**: Header colour
 
 {% embed url="https://cdn.discordapp.com/attachments/1086985889286209586/1093225791501897748/Screenshot_2023-04-05-22-58-39-947-edit_com.aliucordrn.jpg" %}
 
@@ -113,6 +112,9 @@ description: >-
 ***
 
 * **BACKGROUND\_MESSAGE\_HOVER**: The color for interactive elements when hovered over
+
+***
+
 * **BACKGROUND\_MODIFIER\_HOVER**: Background color of slash commands
 
 {% embed url="https://cdn.discordapp.com/attachments/1086985889286209586/1093227942781395024/Screenshot_2023-04-05-23-07-08-949-edit_dev.beefers.vendetta.jpg" %}
@@ -135,21 +137,37 @@ description: >-
 
 ***
 
-* **BACKGROUND\_MODIFIER\_ACCENT**: Separators \[Server List Top, Bottom Bar, Server Info, User List, User Info, @, Notifications, Friends, Search, Settings]
+* **BACKGROUND\_MODIFIER\_ACCENT**: background for icons in the settings menu
 
 {% embed url="https://cdn.discordapp.com/attachments/1086985889286209586/1093231876694609950/Screenshot_2023-04-05-23-22-58-137-edit_com.aliucordrn.jpg" %}
 
+***
 
-* **BG\_BASE\_SECONDARY**:
-Settings pages for light mode
+* **BG\_BACKDROP**:
+Colour of context menus 
 
 ***
 
-* **SCROLLBAR\_THIN\_THUMB**: Elements of scroll bars
-* **SCROLLBAR\_THIN\_TRACK**: Elements of scroll bars
-* **SCROLLBAR\_AUTO\_THUMB**: Elements of scroll bars
-* **SCROLLBAR\_AUTO\_TRACK**: Elements of scroll bars
-* **KEYBOARD**: Global keyboard background color
+* **BG\_BASE\_PRIMARY** :
+Outer chatbox background *(dark mode)*
+Top chat header Channels list
+Messages page
+Notifications page
+
+***
+
+* **BG\_BASE\_SECONDARY**:
+Settings pages
+Outer background for context menus
+
+***
+
+* **CARD\_PRIMARY\_BG**:
+Inner backround on you tab page
+Inner backround on context menus
+Md3 toast and modal backrounds *(nexxutils)*
+inner background for cloudsync setttings page *(CloudSync)*
+bottom half for Apps in app discovery page *(App Discovery)*
 
 ***
 
@@ -179,4 +197,22 @@ Settings pages for light mode
 
 ***
 
+* **REDESIGN\_BUTTON\_SECONDARY\_BACKGROUND**:
+"Edit status" button *(tabsv2)*
+"Edit profile" button *(tabsv2)*
+
+{% embed url="https://cdn.discordapp.com/attachments/811229696955777046/1158791329271271444/00PLf.jpg?ex=651d8806&is=651c3686&hm=6ba684117e79d6a6600d18bbc4579fb7434d21e96a308c27927739d9d66bc9fb&" %}
+
+* **REDESIGN\_BUTTON\_SECONDARY\_ALT_\BACKGROUND** :
+Backround colours for:
+- Attachment button Gift button Search button
+- Add friends button
+- Message request button
+- Events button
+
+* **REDESIGN\_BUTTON\_SECONDARY\_BORDER** :
+Border for "Add status" button
+Border for "Edit profile" button
+
+***
 * **SPOILER\_HIDDEN\_BACKGROUND**: Themes the hidden spoiler background

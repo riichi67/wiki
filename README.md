@@ -15,7 +15,8 @@ Github organization: [https://github.com/vendetta-mod](https://github.com/riichi
 
 @ft.vodka[^1] for first themes wiki\
 @swiftui[^2], @cyriotic3,[^3] @pylixonly[^4] and !neo#4932[^5] for helping in first themes wiki\
-@nexpid[^6] for theme util
+@nexpid[^6] for theme util\
+@moodle[^7] and @.princeblueblood[^8] updating strings for tabsUI
 
 [^1]: ID:1068030255455015013
 
@@ -30,3 +31,7 @@ Github organization: [https://github.com/vendetta-mod](https://github.com/riichi
 [^5]: no ID found :(  &#x20;
 
 [^6]: ID:853550207039832084
+
+[^7]: ID:716941151386599464
+
+[^8]: ID:131929165292240896
