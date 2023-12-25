@@ -22,7 +22,7 @@ Staff tags plugin by @swiftui
 
 ***
 
-Strinhs hsed in Plugins by [nexxpid](https://github.com/nexpid)
+Strings used in Plugins by [nexxpid](https://github.com/nexpid)
 
 * BACKGROUND_MOBILE_PRIMARY: Outer background of CloudSync settings
 
