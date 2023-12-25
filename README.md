@@ -32,6 +32,6 @@ Github organization: [https://github.com/vendetta-mod](https://github.com/riichi
 
 [^6]: ID:853550207039832084
 
-[^7]  ID:716941151386599464
+[^7]: ID:716941151386599464
 
-[^8]  ID:131929165292240896
+[^8]: ID:131929165292240896
