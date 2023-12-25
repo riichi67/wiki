@@ -61,7 +61,12 @@ description: >-
 
 ***
 
-* **BACKGROUND\_SECONDARY** : The secondary background color for the UI, background of create new server icons and stuffs, settings embed of plugins and themes, some elements in forum pages
+* **BACKGROUND\_SECONDARY** :
+Outer background for profiles
+Outer background for forum posts
+Background for single line code block thingys
+Outer backround for context menus (can be overwritten by BG_BASE_SECONDARY)
+Audit log info backround
 
 {% embed url="https://cdn.discordapp.com/attachments/1086985889286209586/1093206528598736896/IMG_20230405_214143.jpg" %}
 
@@ -189,6 +194,16 @@ Settings pages for light mode
 
 {% embed url="https://cdn.discordapp.com/attachments/811229696955777046/1158791329271271444/00PLf.jpg?ex=651d8806&is=651c3686&hm=6ba684117e79d6a6600d18bbc4579fb7434d21e96a308c27927739d9d66bc9fb&" %}
 
+* **REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND** :
+Backround colours for:
+- Attachment button Gift button Search button
+- Add friends button
+- Message request button
+- Events button
+
+* **REDESIGN_BUTTON_SECONDARY_BORDER** :
+Border for "Add status" button
+Border for "Edit profile" button
 
 ***
 * **SPOILER\_HIDDEN\_BACKGROUND**: Themes the hidden spoiler background
