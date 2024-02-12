@@ -11,3 +11,4 @@
 * [🖌 Semantic Colors](objects/semantic-colors.md)
 * [🎨 Raw Colors](objects/raw-colors.md)
 * [🔁 Extra keys](objects/extra-keys.md)
+* [📚 Fonts](objects/fonts.md)
