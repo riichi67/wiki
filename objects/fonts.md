@@ -29,3 +29,4 @@ description: >-
  },
 ```
 to your theme file. Change every **"font"** to font link.
+* Supported formats: **.ttf** or **.otf**
