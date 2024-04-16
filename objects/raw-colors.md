@@ -24,6 +24,10 @@ For the switch trance
 
 ***
 
+* **GREEN\_360**:
+Themes the invite button in invite embeds, progress bar when uploading images, add friend button in user profiles
+
+***
 * **PRIMARY\_100**:
 Settings > nitro gifting > nitro gift backround *(light mode)*
 Colour of the `cancel` button in app authorisation page
@@ -127,6 +131,11 @@ User preview when someone is typing
 
 * **PLUM\_22**:
 Swipe to reply background
+
+***
+
+* **RED\_400**:
+Themes the ping colors
 
 ***
 
