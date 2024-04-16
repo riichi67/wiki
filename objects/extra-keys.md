@@ -23,10 +23,10 @@ Staff tags plugin by @swiftui
 ***
 
 Platform Indicators by [Martinz](https://github.com/Martinz64)
-Online- GREEN\_360
-DND- RED\_400
-Idle- YELLOW\_300
-Offline- PRIMARY\_400
+* Online- GREEN\_360
+* DND- RED\_400
+* Idle- YELLOW\_300
+* Offline- PRIMARY\_400
 
 ***
 
