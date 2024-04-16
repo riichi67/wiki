@@ -1,5 +1,5 @@
 ---
-Description: Extra known keys are mentioned below (rawColors)
+Description: Extra known keys are mentioned below
 ---
 
 # 🔁 Extra keys
@@ -19,6 +19,14 @@ Staff tags plugin by @swiftui
 * BLUE\_345: Moderator
 
 {% embed url="https://cdn.discordapp.com/attachments/1092923768114008084/1092923768252411915/image0.jpg-2.png" %}
+
+***
+
+Platform Indicators by [Martinz](https://github.com/Martinz64)
+* Online- GREEN\_360
+* DND- RED\_400
+* Idle- YELLOW\_300
+* Offline- PRIMARY\_400
 
 ***
 
