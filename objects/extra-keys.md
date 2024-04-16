@@ -4,11 +4,6 @@ Description: Extra known keys are mentioned below
 
 # 🔁 Extra keys
 
-* **GREEN\_360**:
-Themes the invite button in invite embeds, progress bar when uploading images, add friend button in user profiles
-* **RED\_400**:
-Themes the ping colors
-
 ***
 
 Staff tags plugin by @swiftui
@@ -22,7 +17,7 @@ Staff tags plugin by @swiftui
 
 ***
 
-Platform Indicators by [Martinz](https://github.com/Martinz64)
+Platform Indicators plugin by [Martinz](https://github.com/Martinz64)
 * Online- GREEN\_360
 * DND- RED\_400
 * Idle- YELLOW\_300
@@ -30,14 +25,12 @@ Platform Indicators by [Martinz](https://github.com/Martinz64)
 
 ***
 
-Strings used in Plugins by [nexxpid](https://github.com/nexpid)
+CloudSync plugin by [nexxpid](https://github.com/nexpid)
 
 * BACKGROUND_MOBILE_PRIMARY: Outer background of CloudSync settings
+* CARD\_PRIMARY\_BG: Inner background for CloudSync settings
 
-* CARD\_PRIMARY\_BG: Inner background for CloudSync settings, Nexxutils settings, bottom half of apps in app discovery page, nexxutils MD3 toast & modal backgrounds
-
-* PRIMARY_230: Nexxutils MD3 toast popups
-
-* PRIMARY_600: Inner background of Nexxutils MD3 switch toggles
-
-* WHITE\_630: Nexxutils MD3 switch turned off outline
+Nexxutils plugin by [nexxpid](https://github.com/nexpid)
+* CARD\_PRIMARY\_BG: Inner background for settings, MD3 toast & modal backgrounds
+* PRIMARY\_600: Inner background of MD3 switch toggles
+* WHITE\_630: MD3 switch turned off outline
