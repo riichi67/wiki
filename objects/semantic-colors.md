@@ -165,10 +165,9 @@ Outer background for context menus
 * **CARD\_PRIMARY\_BG**:
 Inner backround on you tab page
 Inner backround on context menus
-Md3 toast and modal backrounds *(nexxutils)*
-inner background for cloudsync setttings page *(CloudSync)*
-bottom half for Apps in app discovery page *(App Discovery)*
 
+* **CARD\_SECONDARY\_BG**:
+Inner background of plugins/theme cards [pyoncord]
 ***
 
 * **CHANNEL\_ICON**: Chat input text, Symbols \[@, Lock, # (except muted channels)
