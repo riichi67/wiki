@@ -50,6 +50,7 @@ How to add your own font:
 }
 ```
 where "link" stands for font file URL.
+
 4. Commit all the changes and copy the link ("Raw" button > Copy link from your browser's search bar).
 5. Go to You > Settings > Fonts and press *Install*.
 6. Select font and reload app.
