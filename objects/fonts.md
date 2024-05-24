@@ -7,17 +7,17 @@ description: >-
 
 ## How to install fonts
 
-With Revenge themes (fonts section in theme file):
+##### With Revenge themes (fonts section in theme file):
 1. Find & install a theme with custom fonts support.
 2. Go to Discord settings > Fonts > **Extract font from theme**.
 3. Select font and reload app.
 
-Using font links (recommended):
+##### Using font links (recommended):
 1. Get a font file link (.json file).
 2. Go to You > Settings > Fonts and press *Install*.
 3. Select font and reload app.
 
-How to add your own font:
+## How to add your own font:
 1. Create a repository on Github (not necessary, but preferred).
 2. Upload fonts files (.ttf/.otf) to the repository, copy raw links ("Raw" button > Copy link from your browser's search bar).
 - That's not necessary too, you can use any URLs below if they point to the font files directly (URLs end with file format)!
